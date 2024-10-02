@@ -1,0 +1,22 @@
+.delcontainer{
+    height: 80vh;
+}
+.details{
+    width: 30%;
+    box-shadow: inset 0 0 5vh white;
+    border-radius: 5vh;
+    padding: 2%;
+    margin: 3% auto;
+}
+.details table{
+    margin: auto;
+}
+.details table th,td{
+    color: white;
+    padding: 2vh;
+}
+.details table th{
+    text-transform: uppercase;
+    color: black;
+    text-align: left;
+}

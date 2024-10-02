@@ -1,0 +1,28 @@
+.nav {
+    position: relative;
+    top: 3vh;
+    margin: auto;
+    width: 30%;
+    display: flex;
+    align-items: center;
+    height: 10vh;
+    border-radius: 10vh;
+    background: linear-gradient(skyblue,rgba(255, 255, 255, 0.331));
+}
+
+.nav ul{
+    margin: auto;
+    font-size: 3vh;
+    width:100%;
+    list-style-type: none;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav ul a{
+    text-decoration: none;
+}
+.nav ul li:hover{
+    border-bottom: 2px solid red;
+}

@@ -1,0 +1,9 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+
+body{
+    height: 100vh;
+    background: repeating-conic-gradient(from 0deg at 50% 50%, rgba(109, 56, 57, 0.559) 0% 5%, rgba(61, 44, 44, 0.272) 10% 0%, rgba(19, 197, 206, 0.541) 20%), radial-gradient(circle farthest-corner at 50% 50%, #ffffffff 0% 0%, #adc6f5ff 20%, #0022ffff 100%), linear-gradient(to top, #3f0303ff 0% 100%, #3f030300 100%);
+    background-blend-mode: color-dodge ;
+    background-size: cover;
+}
+
